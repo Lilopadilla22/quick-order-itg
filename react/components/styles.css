@@ -1,0 +1,42 @@
+.container__form__quick {
+  display        : flex;
+  flex-direction : column;
+  align-items    : center;
+  margin-top     : 8px;
+  justify-content: center;
+}
+
+.container__title__quick {
+  font-size: 20px;
+  color    : #34a89b
+}
+
+.label__form__quick {
+  font-size: 12x;
+  color    : #34a89b;
+  margin   : 5px
+}
+
+.input__form__quick {
+  width: 50%;
+}
+
+.container__button__quick {
+  display        : flex;
+  flex-direction : column;
+  justify-content: center;
+  align-items    : center;
+  padding        : 5px;
+
+}
+
+.input__button__quick {
+  font-size       : 12px;
+  margin-top      : 8px;
+  padding         : 10px;
+  background-color: #34a89b;
+  color           : gainsboro;
+  border-color    : #34a89b;
+  border-radius   : 6px;
+
+}
