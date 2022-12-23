@@ -18,7 +18,8 @@
 }
 
 .input__form__quick {
-  width: 50%;
+  width       : 50%;
+  border-color: #04c8c9;
 }
 
 .container__button__quick {
@@ -27,7 +28,6 @@
   justify-content: center;
   align-items    : center;
   padding        : 5px;
-
 }
 
 .input__button__quick {
@@ -38,5 +38,4 @@
   color           : gainsboro;
   border-color    : #34a89b;
   border-radius   : 6px;
-
 }
