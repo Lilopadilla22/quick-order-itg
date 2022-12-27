@@ -1,11 +1,12 @@
 ## Quick Order
 
-Quick order es un componente que le ayudara al cliente a realizar una compra rapida, escoge su proudcto por SKU y lo lleva directo a su checkout
- ## vista del modal
+Quick order es un componente que le ayudara al cliente a realizar una compra rapida, escoge su proudcto por SKU y lo lleva directo a su checkout.
+
+## vista del componente
 
 ![quick-order](https://user-images.githubusercontent.com/97923792/209363053-ec77310c-17ad-4fff-afc9-e3e4361a56a9.png)
 
-## CONFUGURACION 
+## CONFIGURACION 
 
 ### Primero - Configuración Básica 
 
